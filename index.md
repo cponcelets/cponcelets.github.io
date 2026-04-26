@@ -42,5 +42,5 @@ layout: default
 ([thesis](https://theses.hal.science/tel-01528954v2/file/these_archivage_3061365o.pdf))
 
 ---
-[![orcid logo](https://e7.pngegg.com/pngimages/436/840/png-clipart-orcid-research-object-digital-object-identifier-others-miscellaneous-text.png)](https://orcid.org/0000-0002-3165-634X)
+[![orcid logo](https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif)](https://orcid.org/0000-0002-3165-634X)
 ---
