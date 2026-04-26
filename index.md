@@ -34,7 +34,9 @@ layout: default
 
 ---
 
-### 𝐏𝐡𝐃: 𝐌𝐨𝐝𝐞𝐥-𝐁𝐚𝐬𝐞𝐝 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐨𝐟 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐌𝐮𝐬𝐢𝐜 𝐒𝐲𝐬𝐭𝐞𝐦𝐬.
+### 𝐏𝐡𝐃: 𝐌𝐨𝐝𝐞𝐥-𝐁𝐚𝐬𝐞𝐝 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐨𝐟 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐌𝐮𝐬𝐢𝐜 𝐒𝐲𝐬𝐭𝐞𝐦𝐬. [Inria](https://www.pulsalys.fr/sites/pulsalys/files/styles/text_media/public/content/medias/images/2020-05/inria.png?itok=B_nt95ci)
 [IRCAM](https://www.ircam.fr/en) and [Sorbonne University](https://www.sorbonne-universite.fr/)
 
-> I designed automatic methods based on Timed Automata to establish the timed conformance of [Antescofo](https://metronautapp.com/fr/a-propos-antescofo) (C++).
+[ircam](https://www.relikto.com/wp-content/uploads/2022/05/ircam.jpg)
+> I designed automatic methods based on Timed Automata to establish the timed conformance of [Antescofo](https://metronautapp.com/fr/a-propos-antescofo) (C++). 
+![Sorbonne Logo]([https://github.githubassets.com/images/icons/emoji/octocat.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2STqefH61gI1PMkfZrpz03VBYExAAKoqYw&s))
