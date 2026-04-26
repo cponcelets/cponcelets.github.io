@@ -2,122 +2,33 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> In the [Turbo Team](https://ptal.github.io/), designing a neuro-symbolic constraint solver, GPU compliant and supporting abstract domains.
+> My current project focuses on opening Turbo to constraint acquisition techniques, tailoring LLMs for breaking down the expert barrier of Constraint Programming technologies.
+>
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+# 𝐔𝐧𝐢𝐟𝐲𝐢𝐧𝐠 𝐚𝐧𝐝 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐈𝐑 𝐫𝐞𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐭𝐫𝐚𝐧𝐬𝐜𝐨𝐦𝐩𝐢𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐪𝐮𝐚𝐥𝐢𝐭𝐲 𝐭𝐞𝐬𝐭 𝐬𝐮𝐢𝐭𝐞 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+> As a researcher in the R&D team of the company MTB111, I contributed to designing and developing Structur’All X, a JAVA framework to transcompile and generate quality
+> test suites based on a generic intermediate representation within a graph database (OrientDB & Gremlin).
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# 𝐓𝐚𝐢𝐥𝐨𝐫𝐢𝐧𝐠 𝐇𝐲𝐛𝐫𝐢𝐝 𝐅𝐮𝐳𝐳𝐢𝐧𝐠 𝐟𝐨𝐫 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐧𝐠 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐢𝐧 𝐈𝐎𝐓 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐒𝐭𝐚𝐜𝐤𝐬.
 
-##### Header 5
+> In the aSSIsT project (Uppsala University), I designed an automatic framework to statistically evaluate hybrid fuzzers (QSYM, Angora, SymCC) and sanitisers (ASan, UBSan, EffectiveSan).
+> Based on Docker / Perl scripts, the framework was applied to Contiki-NG’s network stack, exposing several vulnerabilities.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+# 𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐢𝐧𝐠 𝐚𝐧 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭 𝐚𝐧𝐝 𝐒𝐲𝐦𝐛𝐨𝐥𝐢𝐜 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧 𝐨𝐧 𝐚 𝐓𝐢𝐧𝐲 𝐈𝐧𝐭𝐞𝐫𝐩𝐫𝐞𝐭𝐞𝐫.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+> At Salzburg University, I extended Selfie’s interpreter (written in Cstar and interpreting RISC-V) with symbolic execution based on abstract domains.
 
-### There's a horizontal rule below this.
+---
 
-* * *
+# 𝐏𝐡𝐃: 𝐌𝐨𝐝𝐞𝐥-𝐁𝐚𝐬𝐞𝐝 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐨𝐟 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐌𝐮𝐬𝐢𝐜 𝐒𝐲𝐬𝐭𝐞𝐦𝐬.
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+> At IRCAM/Sorbonne University, I designed automatic methods based on Timed Automata to establish the timed conformance of Antescofo (C++).
