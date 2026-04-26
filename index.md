@@ -28,7 +28,7 @@ layout: default
 ---
 
 ### 𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐢𝐧𝐠 𝐚𝐧 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭 𝐚𝐧𝐝 𝐒𝐲𝐦𝐛𝐨𝐥𝐢𝐜 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧 𝐨𝐧 𝐚 𝐓𝐢𝐧𝐲 𝐈𝐧𝐭𝐞𝐫𝐩𝐫𝐞𝐭𝐞𝐫.
-[Salzburg University](https://www.uu.se/en)
+[Salzburg University]([https://www.uu.se/en](https://www.plus.ac.at/?lang=en))
 
 > Developped [Littlemonster](https://github.com/cponcelets/selfie/tree/littlemonster), an extention Selfie’s interpreter (written in Cstar and interpreting RISC-V) with symbolic execution based on abstract domains.
 
