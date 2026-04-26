@@ -37,12 +37,10 @@ layout: default
 ### 𝐏𝐡𝐃: 𝐌𝐨𝐝𝐞𝐥-𝐁𝐚𝐬𝐞𝐝 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐨𝐟 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐌𝐮𝐬𝐢𝐜 𝐒𝐲𝐬𝐭𝐞𝐦𝐬.
 [IRCAM](https://www.ircam.fr/en) and [Sorbonne University](https://www.sorbonne-universite.fr/)
 
-![ircam](https://www.relikto.com/wp-content/uploads/2022/05/ircam.jpg)
 > I designed automatic methods based on Timed Automata to establish the timed conformance of [Antescofo](https://metronautapp.com/fr/a-propos-antescofo) (C++). 
 
 ([thesis](https://theses.hal.science/tel-01528954v2/file/these_archivage_3061365o.pdf))
 
 ---
-[![orcid logo](<img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/df03f1e7-fb99-49a5-b1f6-6a8618316f01" />
-)](https://orcid.org/0000-0002-3165-634X)
+[![orcid logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/3840px-ORCID_iD.svg.png)](https://orcid.org/0000-0002-3165-634X)
 ---
